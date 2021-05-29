@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/roshan/IdeaProjects/Betweeness-Centrality-Spark/target/scala-2.11/betweeness-centrality-spark_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/roshan/IdeaProjects/Betweeness-Centrality-Spark/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/betweenessSpark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/roshan/IdeaProjects/Betweeness-Centrality-Spark/target/scala-2.11/classes/com/betweenessSpark[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/betweenessSpark/Setter$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/roshan/IdeaProjects/Betweeness-Centrality-Spark/target/scala-2.11/classes/com/betweenessSpark/Setter$class.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/betweenessSpark/Setter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/roshan/IdeaProjects/Betweeness-Centrality-Spark/target/scala-2.11/classes/com/betweenessSpark/Setter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/betweenessSpark/betweenessSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/roshan/IdeaProjects/Betweeness-Centrality-Spark/target/scala-2.11/classes/com/betweenessSpark/betweenessSpark.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/roshan/IdeaProjects/Betweeness-Centrality-Spark/src/main/scala/betweenessSpark.scala:92:5: not found: value myContributionRegister[0m
+[0m[[0m[31merror[0m] [0m[0m    myContributionRegister[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
